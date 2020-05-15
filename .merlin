@@ -1,15 +1,15 @@
 ####{BSB GENERATED: NO EDIT
-FLG -ppx /Users/jared/clone/apps/isomagic-todos/node_modules/let-anything/ppx
-FLG -ppx '/Users/jared/clone/apps/isomagic-todos/node_modules/bs-platform/lib/reactjs_jsx_ppx_2.exe'
-FLG -ppx /Users/jared/clone/apps/isomagic-todos/node_modules/bs-platform/lib/bsppx.exe
-S /Users/jared/clone/apps/isomagic-todos/node_modules/bs-platform/lib/ocaml
-B /Users/jared/clone/apps/isomagic-todos/node_modules/bs-platform/lib/ocaml
+FLG -ppx /Users/mandalarian/Github/isomagic-todos/node_modules/let-anything/ppx
+FLG -ppx '/Users/mandalarian/Github/isomagic-todos/node_modules/bs-platform/lib/reactjs_jsx_ppx_2.exe'
+FLG -ppx /Users/mandalarian/Github/isomagic-todos/node_modules/bs-platform/lib/bsppx.exe
+S /Users/mandalarian/Github/isomagic-todos/node_modules/bs-platform/lib/ocaml
+B /Users/mandalarian/Github/isomagic-todos/node_modules/bs-platform/lib/ocaml
 FLG -nostdlib -w -40 -w -30 -color always
 FLG -w -30-40+6+7+27+32..39+44+45+101
-S /Users/jared/clone/apps/isomagic-todos/node_modules/reason-react/lib/ocaml
-B /Users/jared/clone/apps/isomagic-todos/node_modules/reason-react/lib/ocaml
-S /Users/jared/clone/apps/isomagic-todos/node_modules/bs-css/lib/ocaml
-B /Users/jared/clone/apps/isomagic-todos/node_modules/bs-css/lib/ocaml
+S /Users/mandalarian/Github/isomagic-todos/node_modules/reason-react/lib/ocaml
+B /Users/mandalarian/Github/isomagic-todos/node_modules/reason-react/lib/ocaml
+S /Users/mandalarian/Github/isomagic-todos/node_modules/bs-css/lib/ocaml
+B /Users/mandalarian/Github/isomagic-todos/node_modules/bs-css/lib/ocaml
 S src/shared
 B lib/bs/src/shared
 S src/shared/locked
