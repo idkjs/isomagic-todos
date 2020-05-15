@@ -16,3 +16,10 @@ Here's an example app that does a couple of neat tricks:
 
 #### Here's some chrome devtools
 ![devtools](devtools.png)
+
+
+# Refurbishing
+
+1. Need to get `tools` from package.json by getting [jaredly/reason-language-server@1.5.2](https://github.com/jaredly/reason-language-server/releases/tag/1.5.2) which is the last version with `type-digger` in it.
+
+2. Need to update RR, maybe.
